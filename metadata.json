@@ -1,0 +1,8 @@
+{
+  "name": "Iasmim Raquel Beauty - Landing Page",
+  "description": "Landing page de alta conversão para Iasmim Raquel Beauty em Duque de Caxias, RJ. Especializada em maquiagem, penteado e trança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
